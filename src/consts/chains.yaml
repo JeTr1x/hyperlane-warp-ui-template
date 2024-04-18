@@ -29,5 +29,3 @@ holesky:
     decimals: 18 # Number
   rpcUrls:
     - http: https://1rpc.io/holesky
-	
-	
