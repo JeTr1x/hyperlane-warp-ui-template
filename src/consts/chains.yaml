@@ -18,3 +18,16 @@
 #   protocol: ethereum
 #   rpcUrls:
 #     - http: http://127.0.0.1:8555
+holesky:
+  name: holesky
+  chainId: 17000
+  domainId: 17000
+  protocol: ethereum
+  nativeToken:
+    name: Ethereum # String
+    symbol: ETH # String
+    decimals: 18 # Number
+  rpcUrls:
+    - http: https://1rpc.io/holesky
+	
+	
